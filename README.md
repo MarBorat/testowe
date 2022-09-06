@@ -1,2 +1,2 @@
 # testowe
-Testowe repozytorium public
+Testowe repozytorium public zmienione
